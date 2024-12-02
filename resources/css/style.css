@@ -38,3 +38,12 @@ margin: 20px 0 40px 0;
 a:last-child{
     margin-bottom: 60px;
 }
+footer{
+    display: block;
+    width: 100%;
+    color: gray;
+    text-align: right;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    
+}
